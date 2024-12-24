@@ -1,0 +1,31 @@
+/*
+    colors :
+    White: hsl(0, 0%, 100%)
+    - Light gray: hsl(212, 45%, 89%)
+    - Grayish blue: hsl(220, 15%, 55%)
+    - Dark blue: hsl(218, 44%, 22%)
+*/
+/*
+- Font size (paragraph): 15px
+
+*/
+
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    /* border: solid red ; */
+}
+
+html {
+    font-size: 66.6%;
+
+}
+
+body {
+    font-family: "Inter", serif;
+    font-optical-sizing: auto;
+    font-weight: 700;
+    font-style: normal;
+}
